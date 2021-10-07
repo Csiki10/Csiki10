@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Benedek Csikós
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning IT development at Óbuda university
+- 🌱 I’m currently learning IT development at Óbuda University
 - 💞️ I’m looking to collaborate on fascinating projects
 - 📫 Reach me through email: csikosbenedek@gmail.com
 

@@ -6,7 +6,7 @@
 📫 Reach me through email: csikosbenedek@gmail.com or any social media
 
 ## 👽 My live projects
-- [React Job Listing](https://react-job-listing-one.vercel.app/)<br>
+- [React Job Listing](https://react-job-listing-one.vercel.app/) (in progress...)<br>
 - [Csikis's Blog Site](https://nix-html-blog.onrender.com/)
 
 ## 🌐 Socials

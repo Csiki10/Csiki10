@@ -2,8 +2,8 @@
 👋 Hi, I’m Benedek Csikós<br>
 👀 I'm looking for a Junior Developer Job<br>
 🌱 I'm currently learning Angular and Node Js with MongoDb<br>
-💞️ I'm interested in Fron-End Development an UI/UX Design<br>
-📫 Reach me through email: csikosbenedek@gmail.com
+💞️ I'm interested in Front-End Development an UI/UX Design<br>
+📫 Reach me through email: csikosbenedek@gmail.com or any social media
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/.csiki._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/BenedekCsikos) 

@@ -7,7 +7,8 @@
 
 ## 👽 My live projects
 - [React Job Listing](https://react-job-listing-one.vercel.app/) (in progress...)<br>
-- [Csikis's Blog Site](https://nix-html-blog.onrender.com/) (in progress...)
+- [Csikis's Blog Site design](https://nix-html-blog.onrender.com/) (in progress...)
+- [Business card design](https://nix-css-business-card.onrender.com/business_card.html)
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/.csiki._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/BenedekCsikos) 

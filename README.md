@@ -7,7 +7,7 @@
 
 ## 👽 My live projects
 - [React Job Listing](https://react-job-listing-one.vercel.app/) (in progress...)<br>
-- [Csikis's Blog Site design](https://nix-html-blog.onrender.com/) (in progress...)
+- [Csikis's Blog Site design](https://nix-html-blog.onrender.com/)
 - [Business card design](https://nix-css-business-card.onrender.com/business_card.html)
 
 ## 🌐 Socials

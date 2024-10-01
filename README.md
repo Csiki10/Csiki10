@@ -5,7 +5,7 @@
 💞️ I'm interested in Front-End Development an UI/UX Design<br>
 📫 Reach me through email: csikosbenedek@gmail.com or any social media
 
-## 👽 Check out my portfolio site
+## 🌐 Check out my portfolio site
 [Csiki's Portfolio](https://portfolio-h716.onrender.com)
 
 ## 👽 My live projects

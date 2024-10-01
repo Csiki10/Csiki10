@@ -6,7 +6,7 @@
 📫 Reach me through email: csikosbenedek@gmail.com or any social media
 
 ## 🌐 Check out my portfolio site
-[Csiki's Portfolio](https://portfolio-h716.onrender.com)
+[Csiki's Portfolio](https://benedekcsikos.site/)
 
 ## 👽 My live projects
 - [React Job Listing](https://react-job-listing-one.vercel.app/) (in progress...)<br>

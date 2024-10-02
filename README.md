@@ -1,5 +1,5 @@
 # 💫 About Me
-👋 Hi, I’m Benedek Csikós<br>
+👋 Hi, I’m Benedek Csikós aka Csiki<br>
 👀 I'm looking for a Junior Developer Job<br>
 🌱 I'm currently learning Angular and Node Js with MongoDb<br>
 💞️ I'm interested in Front-End Development an UI/UX Design<br>

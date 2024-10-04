@@ -9,6 +9,7 @@
 [Csiki's Portfolio](https://benedekcsikos.site/)
 
 ## 👽 My live projects
+- [Angular Store App](https://angular-store-app-beta.vercel.app/) (in progress...)<br>
 - [React Job Listing](https://react-job-listing-one.vercel.app/) (in progress...)<br>
 - [Csikis's Blog Site design](https://nix-html-blog.onrender.com/)
 - [Business card design](https://nix-css-business-card.onrender.com/business_card.html)

@@ -5,7 +5,7 @@
 📫 Reach me through email: csikosbenedek@gmail.com or any social media
 
 ## 🌐 Check out my portfolio site
-[Csiki's Portfolio]([https://benedekcsikos.site/](https://portfolio-h716.onrender.com/))
+[Csiki's Portfolio](https://portfolio-h716.onrender.com/)
 
 ## 👽 My live projects
 - [Angular Store App](https://angular-store-app-beta.vercel.app/) (in progress...)<br>
